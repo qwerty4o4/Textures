@@ -17,7 +17,7 @@ For "Snowier Snow" I use the "Vanilla Short" option, and you can put the full re
 
 Compiled together using [this pack combiner](https://nerawoowty.github.io/packcombiner.html) by [Nerawoowty](https://github.com/nerawoowty)!
 
-Additionally, I will sometimes use [Redstone Tweaks](https://www.curseforge.com/minecraft/texture-packs/redstone-tweaks) as well. This is not included in the pack, but I highly reccommend checking it out, as it is so incredibly helpful when making redstone contraptions.
+Additionally, I will sometimes use [Redstone Tweaks](https://www.curseforge.com/minecraft/texture-packs/redstone-tweaks) as well. This is not included in the pack, but I highly recommend checking it out, as it is so incredibly helpful when making redstone contraptions.
 
 [^1]:Requires [Optifine](https://www.optifine.net)
 [^2]:I use the "Vanilla Short" version
